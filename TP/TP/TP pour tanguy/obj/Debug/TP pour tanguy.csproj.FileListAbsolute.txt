@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\C#\TP\TP\TP pour tanguy\bin\Debug\TP pour tanguy.exe.config
+C:\Users\Moi\Desktop\C#\TP\TP\TP pour tanguy\bin\Debug\TP pour tanguy.exe
+C:\Users\Moi\Desktop\C#\TP\TP\TP pour tanguy\bin\Debug\TP pour tanguy.pdb
+C:\Users\Moi\Desktop\C#\TP\TP\TP pour tanguy\obj\Debug\TP pour tanguy.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\C#\TP\TP\TP pour tanguy\obj\Debug\TP pour tanguy.exe
+C:\Users\Moi\Desktop\C#\TP\TP\TP pour tanguy\obj\Debug\TP pour tanguy.pdb
+C:\Users\Moi\Desktop\C#\TP\TP\TP pour tanguy\obj\Debug\TP pour tanguy.csprojAssemblyReference.cache

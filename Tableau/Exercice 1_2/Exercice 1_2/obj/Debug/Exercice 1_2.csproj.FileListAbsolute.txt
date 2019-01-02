@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\C#\Tableau\Exercice 1_2\Exercice 1_2\bin\Debug\Exercice 1_2.exe.config
+C:\Users\Moi\Desktop\C#\Tableau\Exercice 1_2\Exercice 1_2\bin\Debug\Exercice 1_2.exe
+C:\Users\Moi\Desktop\C#\Tableau\Exercice 1_2\Exercice 1_2\bin\Debug\Exercice 1_2.pdb
+C:\Users\Moi\Desktop\C#\Tableau\Exercice 1_2\Exercice 1_2\obj\Debug\Exercice 1_2.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\C#\Tableau\Exercice 1_2\Exercice 1_2\obj\Debug\Exercice 1_2.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\C#\Tableau\Exercice 1_2\Exercice 1_2\obj\Debug\Exercice 1_2.exe
+C:\Users\Moi\Desktop\C#\Tableau\Exercice 1_2\Exercice 1_2\obj\Debug\Exercice 1_2.pdb

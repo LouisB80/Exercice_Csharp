@@ -1,0 +1,6 @@
+C:\Users\Moi\Desktop\C#\TP\TP\TP Bonus\bin\Debug\TP Bonus.exe.config
+C:\Users\Moi\Desktop\C#\TP\TP\TP Bonus\bin\Debug\TP Bonus.exe
+C:\Users\Moi\Desktop\C#\TP\TP\TP Bonus\bin\Debug\TP Bonus.pdb
+C:\Users\Moi\Desktop\C#\TP\TP\TP Bonus\obj\Debug\TP2 Bonus.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\C#\TP\TP\TP Bonus\obj\Debug\TP Bonus.exe
+C:\Users\Moi\Desktop\C#\TP\TP\TP Bonus\obj\Debug\TP Bonus.pdb

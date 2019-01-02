@@ -1,0 +1,6 @@
+C:\Users\Moi\Desktop\C#\Conditions\Exercices\Exercice 2\bin\Debug\Exercice 2.exe.config
+C:\Users\Moi\Desktop\C#\Conditions\Exercices\Exercice 2\bin\Debug\Exercice 2.exe
+C:\Users\Moi\Desktop\C#\Conditions\Exercices\Exercice 2\bin\Debug\Exercice 2.pdb
+C:\Users\Moi\Desktop\C#\Conditions\Exercices\Exercice 2\obj\Debug\Exercice 2.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\C#\Conditions\Exercices\Exercice 2\obj\Debug\Exercice 2.exe
+C:\Users\Moi\Desktop\C#\Conditions\Exercices\Exercice 2\obj\Debug\Exercice 2.pdb
